@@ -1,6 +1,13 @@
 @import url("https://themes.googleusercontent.com/fonts/css?kit=cGvuclDC_Z1vE_cnVEU6ATF1M-LdzsUmoiHrzHSHfbmitv6QIjsmGmTsEgqlfXf_");
 
 *
+  
+html, body {
+  height: 100%;
+  display: grid;
+  background: #000;
+  place-items: center;
+}
 
 .container
 {
